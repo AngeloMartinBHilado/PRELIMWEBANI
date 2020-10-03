@@ -1,0 +1,79 @@
+#smoke1
+{
+	
+		position: absolute;
+		left:43%;
+		top:5%;
+		margin: 10px auto;
+		transform: translate(-50%,-50%);
+		width:20px;
+		height:20px;
+		border-radius: 50%;
+		background:white;
+		
+		transition-duration: 500ms;
+		opacity:0%;
+			animation:rise 5s infinite ,scale 5s infinite;
+	animation-timing-function:cubic-bezier(0,-0.36, 0.74, 1.4);
+	
+}
+#smoke2
+{
+	
+		position: absolute;
+		left:43%;
+		top:5%;
+		margin: 10px auto;
+		transform: translate(-50%,-50%);
+		width:20px;
+		height:20px;
+		border-radius: 50%;
+		background:white;
+		transition-duration: 500ms;
+		
+		opacity:0%;
+		animation:rise 5s infinite ,scale 5s infinite;
+	animation-timing-function:cubic-bezier(0,-0.36, 0.74, 1.4);
+	
+	animation-delay: 1s;
+}
+#smoke3
+{
+	
+		position: absolute;
+		left:43%;
+		top:5%;
+		margin: 10px auto;
+		transform: translate(-50%,-50%);
+		width:20px;
+		height:20px;
+		border-radius: 50%;
+		background:white;
+		transition-duration: 500ms;
+		opacity:0%;
+		
+			animation:rise 5s infinite ,scale 5s infinite;
+	animation-timing-function:cubic-bezier(0,-0.36, 0.74, 1.4);
+	
+	animation-delay: 1.5s;
+}
+@keyframes rise {
+    0% { 
+	transform:rotateZ(200deg);
+	top: 50px;}
+  
+  99%  {
+	  opacity:50%;
+	  
+	  top: -50px;}
+	   100%  {
+	  opacity:0%;
+	  
+	  top: -13px;}
+	  
+   } 
+   @keyframes scale {
+    100% {
+         transform: scaleX(3.8) scaleY(3.8);
+    }
+}

@@ -1,0 +1,54 @@
+.isW
+{
+	position:relative;
+	top:-7%;
+	left:47%;
+	height:50px;
+	width:50px;
+	background:	transparent;
+	
+}
+.is1{
+ position:relative;
+	top:20%;
+	left:15%;
+	height:85px;
+	width:85px;
+	background:black;
+	border-radius:15%;
+	transform:scale(.6,.6);
+
+}
+.is2{
+ position:relative;
+	top:10%;
+	left:10%;
+	height:70px;
+	width:70px;
+	background:black;
+	border:6px solid white;
+	border-radius:20%;
+
+}
+.cs1
+{
+	 position:relative;
+	top:-53%;
+	left:27%;
+	height:35px;
+	width:35px;
+	background:black;
+	border:6px solid white;
+	border-radius:50%;
+}
+.cs2
+{
+	 position:relative;
+	top:-105%;
+	left:70%;
+	height:10px;
+	width:10px;
+	background:white;
+	
+	border-radius:50%;
+}

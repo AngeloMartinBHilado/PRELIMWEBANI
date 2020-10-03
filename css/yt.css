@@ -1,0 +1,32 @@
+.boc1{
+ position:relative;
+	top:-17%;
+	left:60%;
+	height:50px;
+	width:75px;
+	background:black;
+	border-radius:15%;
+
+}
+.boc2{
+ position:relative;
+	top:20%;
+	left:15%;
+	height:30px;
+	width:50px;
+	background:white;
+	border-radius:30%;
+
+}
+.trg
+{
+	position:relative;
+	top:-10%;
+	left:33%;
+	width: 0;
+height: 0;
+transform: translate(-40%,-50%) scale(.1) rotate(270deg);
+border-style: solid;
+border-width: 200px 100px 0 50px;
+border-color: black transparent transparent transparent;
+}

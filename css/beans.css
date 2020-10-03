@@ -1,0 +1,343 @@
+.CB{
+   width: 40px;
+   height: 80px;
+   background-color: #6f4e37;
+   position: absolute;
+   left:2%;
+  border-radius:50%;
+ animation: drop 1s ,rotate 2s ;
+   animation-fill-mode: forwards;
+   transform:scale(2,3);
+   animation-delay:.4s;
+    opacity:0%;
+}
+
+
+.bb{
+   width:10px;
+   height:50px;
+   background-color:#333333;
+   position: absolute;
+  border-radius:50%;
+  left:40%;
+  top:20%;
+}
+.CB1{
+   width: 40px;
+   height: 80px;
+   background-color: #6f4e37;
+   position: absolute;
+  border-radius:50%;
+  left:7%;
+ animation: drop 1s ,rotate 2s ;
+   animation-fill-mode: forwards;
+   transform:scale(2,3);
+    animation-delay:.55s;
+    opacity:0%;
+}
+
+
+.bb1{
+   width:10px;
+   height:50px;
+   background-color:#333333;
+   position: absolute;
+  border-radius:50%;
+  left:40%;
+  top:20%;
+}
+.CB2{
+   width: 40px;
+   height: 80px;
+   background-color: #6f4e37;
+   position: absolute;
+   left:12%;
+  border-radius:50%;
+ animation: drop 1s ,rotate 2s ;
+   animation-fill-mode: forwards;
+   transform:scale(2,3);
+    animation-delay:.49s;
+    opacity:0%;
+}
+
+
+.bb2{
+   width:10px;
+   height:50px;
+   background-color:#333333;
+   position: absolute;
+  border-radius:50%;
+  left:40%;
+  top:20%;
+}
+.CB3{
+   width: 40px;
+   height: 80px;
+   background-color: #6f4e37;
+   position: absolute;
+   left:2%;
+  border-radius:50%;
+ animation: drop1 1s ,rotate1 2s ;
+   animation-fill-mode: forwards;
+   transform:scale(2,3);
+   animation-delay:1s;
+    opacity:0%;
+}
+
+
+.bb3{
+   width:10px;
+   height:50px;
+   background-color:#333333;
+   position: absolute;
+  border-radius:50%;
+  left:40%;
+  top:20%;
+}
+.CB4{
+   width: 40px;
+   height: 80px;
+   background-color: #6f4e37;
+   position: absolute;
+  border-radius:50%;
+  left:7%;
+ animation: drop1 1s ,rotate1 2s ;
+   animation-fill-mode: forwards;
+     animation-delay:2s;
+   transform:scale(2,3);
+    opacity:0%;
+}
+
+
+.bb4{
+   width:10px;
+   height:50px;
+   background-color:#333333;
+   position: absolute;
+  border-radius:50%;
+  left:40%;
+  top:20%;
+}
+.CB5{
+   width: 40px;
+   height: 80px;
+   background-color: #6f4e37;
+   position: absolute;
+   left:2%;
+  border-radius:50%;
+ animation: drop2 1s ,rotate2 2s ;
+   animation-fill-mode: forwards;
+     animation-delay:4s;
+   transform:scale(2,3);
+    opacity:0%;
+}
+
+
+.bb5{
+   width:10px;
+   height:50px;
+   background-color:#333333;
+   position: absolute;
+  border-radius:50%;
+  left:40%;
+  top:20%;
+}
+.CB6{
+   width: 40px;
+   height: 80px;
+   background-color: #6f4e37;
+   position: absolute;
+   Right:2%;
+  border-radius:50%;
+ animation: drop 1s ,rotate 2s ;
+   animation-fill-mode: forwards;
+   transform:scale(2,3);
+    animation-delay:.69s;
+    opacity:0%;
+}
+
+
+.bb6{
+   width:10px;
+   height:50px;
+   background-color:#333333;
+   position: absolute;
+  border-radius:50%;
+  left:40%;
+  top:20%;
+}
+.CB7{
+   width: 40px;
+   height: 80px;
+   background-color: #6f4e37;
+   position: absolute;
+  border-radius:50%;
+  Right:7%;
+ animation: drop 1s ,rotate 2s ;
+   animation-fill-mode: forwards;
+   transform:scale(2,3);
+    animation-delay:.79s;
+    opacity:0%;
+}
+
+
+.bb7{
+   width:10px;
+   height:50px;
+   background-color:#333333;
+   position: absolute;
+  border-radius:50%;
+  left:40%;
+  top:20%;
+}
+.CB8{
+   width: 40px;
+   height: 80px;
+   background-color: #6f4e37;
+   position: absolute;
+   Right:12%;
+  border-radius:50%;
+ animation: drop 1s ,rotate 2s ;
+   animation-fill-mode: forwards;
+   transform:scale(2,3);
+    animation-delay:.9s;
+   opacity:0%;
+}
+
+
+.bb8{
+   width:10px;
+   height:50px;
+   background-color:#333333;
+   position: absolute;
+  border-radius:50%;
+  left:40%;
+  top:20%;
+}
+.CB9{
+   width: 40px;
+   height: 80px;
+   background-color: #6f4e37;
+   position: absolute;
+   Right:2%;
+  border-radius:50%;
+ animation: drop1 1s ,rotate3 2s ;
+   animation-fill-mode: forwards;
+     animation-delay:3s;
+   transform:scale(2,3);
+   opacity:0%;
+}
+
+
+.bb9{
+   width:10px;
+   height:50px;
+   background-color:#333333;
+   position: absolute;
+  border-radius:50%;
+  left:40%;
+  top:20%;
+}
+.CB10{
+   width: 40px;
+   height: 80px;
+   background-color: #6f4e37;
+   position: absolute;
+  border-radius:50%;
+  Right:7%;
+ animation: drop1 1s ,rotate3 2s ;
+   animation-fill-mode: forwards;
+     animation-delay:1s;
+   transform:scale(2,3);
+   opacity:0%;
+}
+
+
+.bb10{
+   width:10px;
+   height:50px;
+   background-color:#333333;
+   position: absolute;
+  border-radius:50%;
+  left:40%;
+  top:20%;
+}
+.CB11{
+   width: 40px;
+   height: 80px;
+   background-color: #6f4e37;
+   position: absolute;
+   Right:2%;
+  border-radius:50%;
+ animation: drop2 1s ,rotate3 2s ;
+   animation-fill-mode: forwards;
+     animation-delay:5s;
+   transform:scale(2,3);
+   opacity:0%;
+}
+
+
+.bb11{
+   width:10px;
+   height:50px;
+   background-color:#333333;
+   position: absolute;
+  border-radius:50%;
+  left:40%;
+  top:20%;
+}
+@keyframes drop {
+	
+    0% {top: 0px;}
+		1%{opacity:100%;}
+  100%  {opacity:100%;
+	  top: 230px}
+   } 
+   @keyframes drop1 {
+    0% {top: 0px;}
+  1%{opacity:100%;}
+  100%  {opacity:100%;
+	  top: 190px}
+   } 
+     @keyframes drop2 {
+    0% {top: 0px;}
+  1%{opacity:100%;}
+  100%  {opacity:100%;
+	  top: 150px}
+   } 
+   
+   
+@keyframes rotate {
+   0% {
+      transform: rotate(0deg);
+   }
+  
+   100%{
+      transform: rotate(450deg);
+   }
+}
+@keyframes rotate1 {
+   0% {
+      transform: rotate(0deg);
+   }
+  
+   100%{
+      transform: rotate(460deg);
+   }
+}
+@keyframes rotate2 {
+   0% {
+      transform: rotate(0deg);
+   }
+  
+   100%{
+      transform: rotate(470deg);
+   }
+}@keyframes rotate3 {
+   0% {
+      transform: rotate(0deg);
+   }
+  
+   100%{
+      transform: rotate(260deg);
+   }

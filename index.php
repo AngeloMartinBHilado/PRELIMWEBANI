@@ -82,12 +82,7 @@
 					</div>	
 				</div>
 			
-<div class="nav">
-				
-				
-				
-				
-			</div>	
+				<div class="bdr"></div>	
 		<div class="bx">
 		<div class="contain1">
 	<div class="box1">

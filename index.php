@@ -81,15 +81,7 @@
 						<div id="Coffe"></div>
 					</div>	
 				</div>
-			<div class="nav">
-				
-				<a class="active" href="index.html">Home</a> 
-				<a href="about_us.html">About Us</a> 
-				<a href="services.html">Services</a> 
-				<a href="contact_us.html">Contact Us</a>
-				
-				
-			</div>	
+			
 
 		<div class="bx">
 		<div class="contain1">

@@ -81,7 +81,7 @@
 						<div id="Coffe"></div>
 					</div>	
 				</div>
-			<div class="bdr"></div>	
+			<div id="bdr"></div>	
 
 		<div class="bx">
 		<div class="contain1">

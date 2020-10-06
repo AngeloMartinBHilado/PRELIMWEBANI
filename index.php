@@ -76,18 +76,18 @@
 							<span id="L8">M</span>
 							<span id="L9">E</span>
 						</div>		
-  						<div class="nav">
-				
-				
-				
-				
-			</div>	
+  						
   
 						<div id="Coffe"></div>
 					</div>	
 				</div>
 			
-
+<div class="nav">
+				
+				
+				
+				
+			</div>	
 		<div class="bx">
 		<div class="contain1">
 	<div class="box1">
